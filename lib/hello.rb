@@ -7,7 +7,8 @@ i=0
  end 
  array
  else
-   puts "Hey! No block was gicen!"
+   puts "Hey! No block was given!"
+ end
 end
 
 # call your method here!
